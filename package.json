@@ -9,6 +9,14 @@
     "build": "tsc"
   },
   "author": "Roberto Carraro",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/precookedcode/react-auth-button.git"
+  },
+  "bugs": {
+    "url": "https://github.com/precookedcode/react-auth-button/issues"
+  },
+  "homepage": "https://github.com/precookedcode/react-auth-button#readme",
   "license": "ISC",
   "dependencies": {
     "@precooked/react-button": "^1.0.8",
